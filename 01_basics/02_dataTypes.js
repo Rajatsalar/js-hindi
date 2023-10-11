@@ -1,4 +1,4 @@
-alert(3 + 3)// we are using nodejs, not browser
+// alert(3 + 3)// we are using nodejs, not browser
 
 let name = "Rajat"
 let age = 28
@@ -14,3 +14,4 @@ let isLoggedIn = false
 
 
 // object
+//console.log(typeof name) //
