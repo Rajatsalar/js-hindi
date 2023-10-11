@@ -6,7 +6,7 @@ accountCity = "Bijnor"
 // accountId = 2 not allowed in js
 /*
 prefer not to use var bcse of issue in block scope and functional scope.
-/*
+*/
 
 accountEmail = "hc@hc.com"
 accountPassword = "212121"
